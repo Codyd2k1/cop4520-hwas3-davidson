@@ -37,14 +37,14 @@ class Servant implements Runnable{
                     continue;
                 }
                 LockFreeListSimulation.giftList.add(giftToAdd);
-                System.out.println("Servant " + servantID + " added gift: " + giftToAdd);
+                //System.out.println("Servant " + servantID + " added gift: " + giftToAdd);
                 task = 1;
             }
             else if(task == 1){
                 Integer giftToRemove = LockFreeListSimulation.giftsToRemoveFromGiftList.poll();
                 if(giftToRemove == null)continue;
                 LockFreeListSimulation.giftList.remove(giftToRemove);
-                System.out.println("Servant " + servantID + " removed gift: " + giftToRemove);
+                //System.out.println("Servant " + servantID + " removed gift: " + giftToRemove);
                 numThankYousWritten++;
                 task = 0;
             }
