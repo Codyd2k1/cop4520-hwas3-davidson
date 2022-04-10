@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfae11ad-82a5-49b9-92c0-db437caf3473" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/problem1secondtry/Servant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1secondtry/Servant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem2/AtomicTempModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem2/AtomicTempModule.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LockFreeListSimulation">
+  <component name="RunManager" selected="Application.AtomicTempModule">
     <configuration name="AtomicTempModule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problem2.AtomicTempModule" />
       <module name="hw3" />
@@ -150,8 +152,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LockFreeListSimulation" />
         <item itemvalue="Application.AtomicTempModule" />
+        <item itemvalue="Application.LockFreeListSimulation" />
         <item itemvalue="JUnit.LockFreeListServantTest" />
         <item itemvalue="JUnit.LockFreeListServantTest.testAddRemoveContainsThankYouCardWriting500k" />
         <item itemvalue="JUnit.LockFreeListServantTest.testAddRemoveContainsThankYouCardWriting5k" />
@@ -168,7 +170,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649261692727</updated>
-      <workItem from="1649261703425" duration="54483000" />
+      <workItem from="1649261703425" duration="55709000" />
     </task>
     <servers />
   </component>

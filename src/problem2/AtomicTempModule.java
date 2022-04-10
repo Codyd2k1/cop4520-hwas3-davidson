@@ -93,7 +93,7 @@ public class AtomicTempModule{
         int size = 0;
         Node curr = temperatureListCopy.head;
         while(curr != null){
-            System.out.println("i: " + size + " " + curr.toString());
+            //System.out.println("i: " + size + " " + curr.toString());
             curr = (Node) curr.next.getReference();
             size++;
         }
