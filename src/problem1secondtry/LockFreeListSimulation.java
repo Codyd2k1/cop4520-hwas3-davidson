@@ -1,12 +1,8 @@
 package problem1secondtry;
 
-import org.junit.rules.Stopwatch;
 
 import java.time.Duration;
 import java.time.Instant;
-import java.util.LinkedHashSet;
-import java.util.Random;
-import java.util.Set;
 import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.atomic.AtomicMarkableReference;
 

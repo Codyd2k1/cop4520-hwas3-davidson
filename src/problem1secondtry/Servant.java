@@ -19,7 +19,7 @@ class Servant implements Runnable{
         As the Minotaur was impatient to get this task done quickly, he instructed his servants not
         to wait until all of the presents from the unordered bag are placed in the chain of linked
         and ordered presents. Instead, every servant was asked to alternate adding gifts to the
-        ordered chain and writing “Thank you” cards.
+        ordered chain and writing Thank you cards.
          */
     //also servants need to randomly do contains at the minotaurs request.
     @Override
