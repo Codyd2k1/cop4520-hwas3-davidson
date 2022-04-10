@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfae11ad-82a5-49b9-92c0-db437caf3473" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="27QoVF0LeMzd5AV0LDNlfsqvDzY" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="problem1secondtry" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="problem2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LockFreeListSimulation">
+    <configuration name="AtomicTempModule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem2.AtomicTempModule" />
+      <module name="hw3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LockFreeListSimulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem1secondtry.LockFreeListSimulation" />
+      <module name="hw3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem1secondtry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="problem1secondtry.LockFreeListServantTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LockFreeListServantTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem1secondtry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="problem1secondtry" />
+      <option name="MAIN_CLASS_NAME" value="problem1secondtry.LockFreeListServantTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LockFreeListServantTest.testAddRemoveContainsThankYouCardWriting500k" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem1secondtry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="problem1secondtry" />
+      <option name="MAIN_CLASS_NAME" value="problem1secondtry.LockFreeListServantTest" />
+      <option name="METHOD_NAME" value="testAddRemoveContainsThankYouCardWriting500k" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LockFreeListServantTest.testAddRemoveContainsThankYouCardWriting5k" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem1secondtry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="problem1secondtry" />
+      <option name="MAIN_CLASS_NAME" value="problem1secondtry.LockFreeListServantTest" />
+      <option name="METHOD_NAME" value="testAddRemoveContainsThankYouCardWriting5k" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.LockFreeListServantTest.testAddRemoveContainsThankYouCardWriting5k" />
+      <item itemvalue="JUnit.LockFreeListServantTest.testAddRemoveContainsThankYouCardWriting500k" />
+      <item itemvalue="JUnit.LockFreeListServantTest" />
+      <item itemvalue="Application.AtomicTempModule" />
+      <item itemvalue="Application.LockFreeListSimulation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LockFreeListSimulation" />
+        <item itemvalue="Application.AtomicTempModule" />
+        <item itemvalue="JUnit.LockFreeListServantTest" />
+        <item itemvalue="JUnit.LockFreeListServantTest.testAddRemoveContainsThankYouCardWriting500k" />
+        <item itemvalue="JUnit.LockFreeListServantTest.testAddRemoveContainsThankYouCardWriting5k" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfae11ad-82a5-49b9-92c0-db437caf3473" name="Default Changelist" comment="" />
+      <created>1649261692727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649261692727</updated>
+      <workItem from="1649261703425" duration="53432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problem1/Servant.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problem1secondtry/LockFreeListSimulation.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problem1secondtry/Servant.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problem1secondtry/LockFreeListSimulation.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problem1secondtry/LockFreeListSimulation.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problem1secondtry/Servant.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problem1secondtry/Servant.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/problem2/AtomicTempModule.java</url>
+          <line>14</line>
+          <properties field="temperatureList" class="problem2.AtomicTempModule" />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
