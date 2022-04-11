@@ -1,4 +1,4 @@
-# cop4600-hwas3-davidson
+# cop4520-hwas3-davidson
 
 How to compile & run:
 
