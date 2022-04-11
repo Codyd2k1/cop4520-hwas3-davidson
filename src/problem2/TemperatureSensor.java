@@ -4,7 +4,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class TemperatureSensor implements Runnable{
-    static final int minutesBetweenReadings = 1;
+    static final int minutesBetweenReadings = 10;
     public int sensorID;
     public int largestTempDifferenceBetweenReadings;
     public int largestTempDifferenceTime;
@@ -38,7 +38,7 @@ public class TemperatureSensor implements Runnable{
             previousReading = currentReading;
             //wait 1 minute between scans:
             try {
-                TimeUnit.MINUTES.sleep(minutesBetweenReadings);
+                TimeUnit.SECONDS.sleep(minutesBetweenReadings);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
