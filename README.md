@@ -55,7 +55,7 @@ I feel like efficiency isn't a huge part of this program, because the time inter
 I feel this implementation for problem 2 is fairly efficient, I'd say the most "inefficient" part of the implementation is where
 I count the size of the list then iterate through it using the count.. but this is just what you accept when dealing with 
 linked list, traversal is necessary and annoying. These counts/traversals run in o(n), and once again the simulation is running in a while loop
-which runs reports every 6 minutes, and readings every 1.  
+which runs reports every 1 minute, and readings every 10 seconds.  
 **Experimental Evaluation**  
 Fortunately problem 2 wasn't as awful as problem 1, the only "experiments" I had to try were for things like maintaining
 all of the data - didn't want to lose any readings so I had to refresh the linked list in a specific place asap, and another for
