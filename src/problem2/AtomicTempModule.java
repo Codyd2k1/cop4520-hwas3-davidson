@@ -10,7 +10,7 @@ import java.util.concurrent.atomic.AtomicMarkableReference;
 
 public class AtomicTempModule{
     private static final int numTemperatureSensors = 8;
-    private static final int minutesBetweenReports = 60;
+    private static final int secondsBetweenReports = 3;
     private static List<TemperatureSensor> temperatureSensorList = new ArrayList<TemperatureSensor>();
     public static LockFreeList<Integer> temperatureList;
 
@@ -25,7 +25,7 @@ public class AtomicTempModule{
 
             //wait minutes to collect reports:
             try {
-                TimeUnit.SECONDS.sleep(minutesBetweenReports);
+                TimeUnit.SECONDS.sleep(secondsBetweenReports);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
